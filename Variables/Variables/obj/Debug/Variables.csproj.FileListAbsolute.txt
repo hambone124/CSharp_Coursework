@@ -1,0 +1,5 @@
+D:\Documents\GitHub\CSharp_Coursework\Variables\Variables\bin\Debug\Variables.exe.config
+D:\Documents\GitHub\CSharp_Coursework\Variables\Variables\bin\Debug\Variables.exe
+D:\Documents\GitHub\CSharp_Coursework\Variables\Variables\bin\Debug\Variables.pdb
+D:\Documents\GitHub\CSharp_Coursework\Variables\Variables\obj\Debug\Variables.exe
+D:\Documents\GitHub\CSharp_Coursework\Variables\Variables\obj\Debug\Variables.pdb

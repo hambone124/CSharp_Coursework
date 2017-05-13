@@ -1,0 +1,6 @@
+D:\Documents\GitHub\CSharp_Coursework\ProjectDecisions\ProjectDecisions\bin\Debug\ProjectDecisions.exe.config
+D:\Documents\GitHub\CSharp_Coursework\ProjectDecisions\ProjectDecisions\bin\Debug\ProjectDecisions.exe
+D:\Documents\GitHub\CSharp_Coursework\ProjectDecisions\ProjectDecisions\bin\Debug\ProjectDecisions.pdb
+D:\Documents\GitHub\CSharp_Coursework\ProjectDecisions\ProjectDecisions\obj\Debug\ProjectDecisions.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharp_Coursework\ProjectDecisions\ProjectDecisions\obj\Debug\ProjectDecisions.exe
+D:\Documents\GitHub\CSharp_Coursework\ProjectDecisions\ProjectDecisions\obj\Debug\ProjectDecisions.pdb
