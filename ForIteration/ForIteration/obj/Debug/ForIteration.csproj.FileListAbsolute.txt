@@ -1,0 +1,6 @@
+D:\Documents\GitHub\CSharp_Coursework\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+D:\Documents\GitHub\CSharp_Coursework\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+D:\Documents\GitHub\CSharp_Coursework\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+D:\Documents\GitHub\CSharp_Coursework\ForIteration\ForIteration\obj\Debug\ForIteration.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharp_Coursework\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+D:\Documents\GitHub\CSharp_Coursework\ForIteration\ForIteration\obj\Debug\ForIteration.pdb

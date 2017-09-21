@@ -1,0 +1,6 @@
+D:\Documents\GitHub\CSharp_Coursework\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+D:\Documents\GitHub\CSharp_Coursework\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+D:\Documents\GitHub\CSharp_Coursework\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+D:\Documents\GitHub\CSharp_Coursework\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharp_Coursework\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+D:\Documents\GitHub\CSharp_Coursework\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb

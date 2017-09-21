@@ -1,0 +1,6 @@
+D:\Documents\GitHub\CSharp_Coursework\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+D:\Documents\GitHub\CSharp_Coursework\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+D:\Documents\GitHub\CSharp_Coursework\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+D:\Documents\GitHub\CSharp_Coursework\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+D:\Documents\GitHub\CSharp_Coursework\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
+D:\Documents\GitHub\CSharp_Coursework\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache

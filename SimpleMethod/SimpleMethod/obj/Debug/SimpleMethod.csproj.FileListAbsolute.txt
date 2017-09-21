@@ -1,0 +1,6 @@
+D:\Documents\GitHub\CSharp_Coursework\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+D:\Documents\GitHub\CSharp_Coursework\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+D:\Documents\GitHub\CSharp_Coursework\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+D:\Documents\GitHub\CSharp_Coursework\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharp_Coursework\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+D:\Documents\GitHub\CSharp_Coursework\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb
